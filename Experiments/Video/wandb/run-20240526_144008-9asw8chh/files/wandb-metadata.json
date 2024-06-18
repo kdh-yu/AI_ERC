@@ -1,0 +1,48 @@
+{
+    "os": "macOS-14.5-arm64-arm-64bit",
+    "python": "3.8.19",
+    "heartbeatAt": "2024-05-26T05:40:08.703351",
+    "startedAt": "2024-05-26T05:40:08.051266",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": null,
+        "commit": null
+    },
+    "email": "ktx030430@naver.com",
+    "root": "/Users/tt/Documents/Hanyang/3rd grade/Artificial Intelligence/Project",
+    "host": "gimdohun-ui-MacBookPro.local",
+    "username": "tt",
+    "executable": "/Users/tt/miniforge3/envs/ds/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3228,
+        "min": 600,
+        "max": 3228
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3228,
+            "min": 600,
+            "max": 3228
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 926.3517189025879,
+            "used": 420.3101997375488
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 16.0
+    }
+}
