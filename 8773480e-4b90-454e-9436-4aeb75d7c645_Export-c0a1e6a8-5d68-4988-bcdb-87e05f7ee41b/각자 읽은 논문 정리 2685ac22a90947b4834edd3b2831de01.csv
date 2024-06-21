@@ -1,0 +1,30 @@
+﻿뭐 읽음?,누가 읽음?,논문 링크
+"Revisiting Disentanglement and Fusion on Modality and Context
+in Conversational Multimodal Emotion Recognition",김도훈,https://arxiv.org/pdf/2308.04502
+"A Transformer-based Model with Self-distillation
+for Multimodal Emotion Recognition in
+Conversations",김도훈,https://arxiv.org/pdf/2310.20494v1
+Video Swin Transformer,김도훈,https://arxiv.org/pdf/2106.13230
+"DEBERTA: DECODING-ENHANCED BERT WITH DIS
+ENTANGLED ATTENTION",박세용,https://arxiv.org/abs/2006.03654
+" DEBERTAV3: IMPROVING DEBERTA USING
+ELECTRA-STYLE PRE-TRAINING WITH GRADIENT
+DISENTANGLED EMBEDDING SHARING",박세용,https://arxiv.org/abs/2111.09543
+ANGLE-OPTIMIZED TEXT EMBEDDINGS,박세용,https://arxiv.org/abs/2309.12871
+"Sample Design Engineering: An Empirical Study of What Makes Good
+Downstream Fine-Tuning Samples for LLMs",박세용,https://arxiv.org/abs/2404.13033
+AST: Audio Spectrogram Transformer,박나연,https://arxiv.org/abs/2104.01778
+OmniVec: Learning robust representations with cross modal sharing,박나연,https://openaccess.thecvf.com/content/WACV2024/html/Srivastava_OmniVec_Learning_Robust_Representations_With_Cross_Modal_Sharing_WACV_2024_paper.html
+"A Transformer-based Model with Self-distillation for Multimodal Emotion Recognition in Conversations
+	
+",박나연,https://ieeexplore.ieee.org/document/10109845
+"VATT: Transformers for Multimodal Self-Supervised
+Learning from Raw Video, Audio and Text
+
+	
+",박나연,https://arxiv.org/abs/2104.11178
+"BERT: Pre-training of Deep Bidirectional Transformers for
+Language Understanding",박세용,https://arxiv.org/abs/1810.04805
+" Attention Is All You Need",박세용,https://arxiv.org/abs/1706.03762
+" ELECTRA: PRE-TRAINING TEXT ENCODERS
+AS DISCRIMINATORS RATHER THAN GENERATORS",박세용,
