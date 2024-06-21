@@ -1,0 +1,12 @@
+# Files
+dev_splits_complete/
+output_repeated_splits_test/
+train_splits/
+MELD_Data/
+MELD.Raw/
+pt2/
+PPT/
+
+*.tar.gz
+
+announcement.txt
